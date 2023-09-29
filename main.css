@@ -129,7 +129,7 @@ nav {
 }
 
 #projects img {
-    display:block;
+    display: block;
     max-width: 100%;
     height: auto;
 }
@@ -142,7 +142,9 @@ nav {
 }
 
 .custom-indent {
-    margin-left: 40px;    
+    margin-left: 40px;
+    line-style-type: disc;
+    display: list-item;
 }
 
 #mobile-menu {
