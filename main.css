@@ -136,6 +136,13 @@ nav {
 
 .spacing {
     margin-bottom: 20px;
+    margin-left: 25px;
+    display: list-item;
+    line-style-type: circle;
+}
+
+.custom-indent {
+    margin-left: 40px;    
 }
 
 #mobile-menu {
