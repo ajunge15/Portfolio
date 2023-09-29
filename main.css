@@ -138,13 +138,13 @@ nav {
     margin-bottom: 20px;
     margin-left: 25px;
     display: list-item;
-    line-style: disc;
+    list-style: disc;
 }
 
 .custom-indent {
     margin-left: 40px;
     display: list-item;
-    line-style: disc;
+    list-style: disc;
 }
 
 #mobile-menu {
