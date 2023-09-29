@@ -138,7 +138,7 @@ nav {
     margin-bottom: 20px;
     margin-left: 25px;
     display: list-item;
-    line-style-type: circle;
+    line-style-type: disc;
 }
 
 .custom-indent {
