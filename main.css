@@ -138,7 +138,8 @@ nav {
     margin-bottom: 20px;
     pading-left: 25px;
     display: list-item;
-    list-style-type: disc inside;
+    list-style-position: inside;
+    list-style-type: disc;
 }
 
 .custom-indent {
