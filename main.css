@@ -136,8 +136,8 @@ nav {
 
 .spacing {
     margin-bottom: 20px;
-    pading-left: 25px;
-    display: list-item;
+    padding-left: 25px;
+    display: block;
     list-style-position: inside;
     list-style-type: disc;
 }
